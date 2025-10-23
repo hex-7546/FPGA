@@ -25,6 +25,11 @@ Inside of hardwiring logic gates, FPGA's use LUT to simulate behaviour of a trut
 - These are the wires that carry signals to different parts of the chips. 
 - They aren't fixed and we can decide which blocks they can connect.
 - They allow us to control how data flow through the FPGA
+<br>
+
+![alt text](image-4.png)
+
+<br>
 
 ## I/O Blocks
 They connect the FPGA to the outer world. They lies beside the input and output pins and can be set up to:
