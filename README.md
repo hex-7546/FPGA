@@ -1,8 +1,8 @@
-# FPGA
+# FPGA's
 
 This repo contains the understanding of FPGA's, eFPGA's and other such related concepts
 
-## FPGA'S
+## FPGA
 Field Programmable Gate Arrays (FPGA) is a special type of integrated circuits (IC) which means a chip which contains many tiny electronic components such as **logic gates**, **memory** and **connectors**
 
 FPGA is different from traditional chips like CPUs or GPUs as it is not locked to a single function. It can be reprogrammed even after its build allowing it to be customised according to our needs
