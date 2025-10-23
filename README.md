@@ -41,7 +41,7 @@ They connect the FPGA to the outer world. They lies beside the input and output 
 
 ## Synthesis Process
 
-1. An **HDL (Hardware Description Language)** is used to describe what the hardware should be
+1. An **HDL (Hardware Description Language)** is used to describe what the hardware should be. Eg: Verilog/VHDL
 2. Then there is a synthesis tool which configures LUT, flip-flops and routing inside FPGA to match the design and generates a netlist
 3. **Netlist** is a low-level blueprint of how logic gates and connections should be laid out in hardware.
 4. Bitstream is generated to program the FPGA
